@@ -1,5 +1,8 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"awks.aternos.me",
+	"port": 20267,
+	"name": "___",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"login-cmd":"/login bot12345"
 }
