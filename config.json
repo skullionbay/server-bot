@@ -3,6 +3,6 @@
 	"port": 20267,
 	"name": "___",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"register-cmd":"/register bot12345 bot12345",
 	"login-cmd":"/login bot12345"
 }
