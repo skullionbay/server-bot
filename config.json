@@ -1,9 +1,9 @@
 {
-	"ip":"awks.aternos.me",
-	"port": 20267,
+	"ip":"yourserverip.aternos.me",
+	"port": 00001,
 	"name": "___",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register bot12345 bot12345",
 	"login-cmd":"/login bot12345"
 }
